@@ -1,7 +1,7 @@
-movida sarandi
-movida caxias
-movida canoas
-movida sao leopoldo
-movida ipiranga
+movida sarandi SEMI NOVAS
+movida caxias SEMI NOVAS
+movida canoas SEMI NOVAS
+movida sao leopoldo SEMI NOVAS
+movida ipiranga SEMI NOVAS
 JSLGRAVATAI
 
